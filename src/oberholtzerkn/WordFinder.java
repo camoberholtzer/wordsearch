@@ -10,7 +10,7 @@ import java.util.TreeSet;
  * and calculating takes place. This class also
  * contains methods to recurse through, access, and manipulate the search grid
  * of GridEntries.
- * @author taylor [based on a similar class by hornick]
+ * @author taylor and Kyra Oberholtzer
  * @version 2015.04.21
  */
 public class WordFinder {
